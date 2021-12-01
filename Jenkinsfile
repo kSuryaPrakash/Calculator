@@ -1,6 +1,6 @@
 pipeline
 {
-  agenta ny
+  agent any
   stages
   {
     stage('excuting comands')
